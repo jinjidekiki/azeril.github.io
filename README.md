@@ -14,13 +14,9 @@ The blog used many tool/service,many thanks to:
 * [DNSPod](https://www.dnspod.cn/), the DNS service provider who surport the domain name resolution;
 * [Duoshuo](http://duoshuo.com/), a socialization comments plugin.
 * [Google](http://google.com), the one who tell me how to make it.
-* …azeril.me
-
-## How To Creat A Jekyll Blog
+* [azeril].me
 
 
+## Just write kiki
 
-Build your blog Step by step
-## Just write
-
-Start writing now！
+tell me your code
